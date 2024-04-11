@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="Sales">Sales</string>
+    <string name="contacts_text">Контакты</string>
+    <string name="contacts_about">Про нас</string>
+    <string name="contacts_main">Главная</string>
+    <string name="main_title">Coffe</string>
+    <string name="main_title_1">Shop</string>
+    <string name="coffeSell">Цена: </string>
+    <string name="coffePriceSell">Скидка: </string>
+    <string name="coffe_content">Content</string>
+    <string name="coffe_price">Цена: </string>
+    <string name="coffe_name">Name</string>
+    <string name="coffe_price_content">Price</string>
+    <string name="priceSell">Цена: </string>
+    <string name="tovars">Товары </string>
+    <string name="kotalog">Каталог</string>
+    <string name="Desert">Десерты</string>
+    <string name="Hleb">Хлеб</string>
+    <string name="Coffe">Кофе</string>
+    <string name="obr">Согласие на обработку \n данных</string>
+    <string name="rek">подписаться на рассылку \n уведомлений</string>
+    <string name="reg">Регистрация</string>
+    <string name="TitleProfile">Регистрация</string>
+    <string name="login">Login</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="repeatpassword">Repeat Password</string>
+    <string name="Clear">Очистить</string>
+    <string name="Forgotpass">Восстановление \n пароля</string>
+    <string name="app_nameTitle">Coffe</string>
+    <string name="Enter">Вход</string>
+    <string name="Enterer">Войти</string>
+    <string name="app_nameTitle2">Shop</string>
+    <string name="zern">Зерна</string>
+    <string name="priceButton">Добавить</string>
+    <string name="priceVolume">Обьем: </string>
+    <string name="priceMilk">Молоко: </string>
+    <string name="add_priceSell">Корзина</string>
+    <string name="typeMilk">Парное</string>
+    <string name="contactOne">Наши точки</string>
+    <string name="tortVolume">Масса: </string>
+    <string name="Opis">Описание</string>
+    <string name="Type">Тип:</string>
+    <string name="Adress">\n
+        Южное ш., 37 \n
+        Абросимова ул. 45\n
+        Авангардная ул. 56\n
+        Афонская ул. 3\n
+        Английская наб. 2\n
+        Александра Матросова ул. 83</string>
+    <string name="pay">Оплатить</string>
+    <string name="AboutTitle">О Компании</string>
+    <string name="ContactTitle">Контакты</string>
+    <string name="Sellday">Акции дня</string>
+    <string name="ContactPhone">Горячая линия: 8999 567 93 94</string>
+    <string name="AboutContent">Мы крупная развивающаяся компания по производству кофе, мы открыли около 1000 точек по всей России, в наше компании только опытные баристы, мы любим и ценим каждого клиента и дарим самый насыщенный кофе,Мы производим кофе только из настоящих зерен средней прожарки. Ежедневно нам оставляют более 100 отзывов, наши заведения ценятся комфортом и приятной атмосферой. Каждый год мы напрявляем деньги в благотворительный фонд защиты детей </string>
+    <string name="coffee_desc">Насыщенные зерна создают необычайные впечатления с каждым глотком любимого кофе,попробуйте наш кофе и окунитесь в море впечатлений</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+</resources>

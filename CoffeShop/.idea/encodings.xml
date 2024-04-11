@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with BOM">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kruglov/coffeshop/Buy.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kruglov/coffeshop/CategoryCoffe.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kruglov/coffeshop/CategoryDesert.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kruglov/coffeshop/CategoryHleb.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kruglov/coffeshop/CategoryZern.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kruglov/coffeshop/CoffePage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kruglov/coffeshop/DBHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kruglov/coffeshop/DesertPage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kruglov/coffeshop/Enter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kruglov/coffeshop/Forgot.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kruglov/coffeshop/Katalog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kruglov/coffeshop/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kruglov/coffeshop/PiePage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kruglov/coffeshop/Profile.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kruglov/coffeshop/Register.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
